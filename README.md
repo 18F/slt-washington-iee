@@ -1,5 +1,7 @@
 # 18F & State of Washington IEE
 
+### General documents
+- [QASP template](https://github.com/18F/slt-washington-iee/blob/main/QASP.docx?raw=true) ([pdf](https://github.com/18F/slt-washington-iee/blob/main/QASP.pdf?raw=true))
 
 ### Acquisition workshop presentations
 - [Day 1 PowerPoint](https://github.com/18F/slt-washington-iee/blob/main/workshop/day1.pptx?raw=true) ([pdf](https://github.com/18F/slt-washington-iee/blob/main/workshop/day1.pdf?raw=true))
